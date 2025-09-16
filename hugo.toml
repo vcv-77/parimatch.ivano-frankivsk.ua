@@ -1,0 +1,93 @@
+baseURL = "https://parimatch.ivano-frankivsk.ua/"
+defaultContentLanguage = "ru"
+title = "Parimatch.ivano-frankivsk"
+enableRobotsTXT = true
+buildFuture = true
+
+[pagination]
+pagerSize = 10
+
+[params]
+defaultRobotsMetaTag = "index, follow"
+description = ""
+keywords = []
+logo = "/images/logo.png"
+footerLogo = ""
+faviconPNG = "/images/favicon-32x32.png"
+playButtonText = "Jogar Agora"
+referralBaseUrl = "https://27d75jeosf.top/RC2TZM"
+activeGoogleFonts = [ "Inter:wght@400;600;700", "Poppins:wght@700",]
+demoIframeCode = ""
+
+[build]
+writeStats = true
+
+[params.organization]
+name = ""
+
+[params.contact]
+address_text = "п. Тверь, бул. Поперечный, д. 7/7 к. 43, 345346"
+address_url = "https://www.google.com/maps/search/?api=1&query=%D0%BF.+%D0%A2%D0%B2%D0%B5%D1%80%D1%8C%2C+%D0%B1%D1%83%D0%BB.+%D0%9F%D0%BE%D0%BF%D0%B5%D1%80%D0%B5%D1%87%D0%BD%D1%8B%D0%B9%2C+%D0%B4.+7%2F7+%D0%BA.+43%2C+345346"
+phone_display = "81575587202"
+phone_link = "tel:81575587202"
+email = "info@parimatch.ivano-frankivsk.ua"
+_locale = "ru_UA"
+
+[params.contactForm]
+action = ""
+netlify = false
+
+[params.uiText]
+footerCopyright = "© {year} {siteTitle}. Все права защищены."
+footerDisclaimerTitleRG = "ОТВЕТСТВЕННАЯ ИГРА"
+footerDisclaimerResponsible = "поддерживает ответственный подход к азартным играм и тесно сотрудничает с партнерами, разделяющими этот основополагающий принцип. Онлайн-азартные игры должны приносить радость и развлечение, а не вызывать страх или беспокойство по поводу финансовых потерь. Если вы чувствуете себя подавленным во время игры на нашей платформе, сделайте перерыв, чтобы восстановить контроль и ясность."
+footerDisclaimerTitleAff = "ИГРАЙТЕ ОТВЕТСТВЕННО"
+footerDisclaimerAffiliate = "является независимым сайтом, не связанным с ресурсами, которые мы рекомендуем. Прежде чем посетить казино или сделать ставку, убедитесь, что вы соответствуете всем юридическим требованиям и требованиям по возрасту. Наша цель — предоставлять информацию и развлечения с акцентом на образование. Переходя по ссылкам, обратите внимание, что вы покидаете наш сайт."
+menuHome = "Главная"
+menuAbout = "О нас"
+menuCasino = "Где играть"
+menuDemo = "Демо"
+menuApp = "Приложение"
+menuContacts = "Контакты"
+menuCookiePolicy = "Политика использования файлов cookie"
+menuPrivacyPolicy = "Политика конфиденциальности"
+menuResponsibleGambling = "Ответственная игра"
+menuTermsConditions = "Условия и положения"
+playButtonText = "Играть"
+contactPageTitle = "Контакт"
+contactInfoTitle = "Контактная информация"
+contactFormTitle = "Отправить сообщение"
+contactLabelAddress = "Адрес"
+contactLabelPhone = "Телефон"
+contactLabelEmail = "Электронная почта"
+contactLabelHours = "Часы работы"
+contactFormLabelName = "Ваше имя"
+contactFormLabelPhone = "Номер телефона"
+contactFormLabelEmail = "Электронная почта"
+contactFormLabelMessage = "Сообщение"
+contactFormButtonSubmit = "Отправить сообщение"
+contactFormRequiredNotice = "Обязательные поля"
+listReadMore = "Читать далее →"
+paginationPrevious = "« Назад"
+paginationNext = "Вперед »"
+paginationAriaPrevious = "Предыдущая страница"
+paginationAriaNext = "Следующая страница"
+paginationAriaGoToPage = "Перейти на страницу {pageNumber}"
+tocTitle = "Оглавление"
+breadcrumbHome = "Главная"
+contactFormPlaceholderName = "Имя Фамилия"
+contactFormPlaceholderPhone = "Номер телефона"
+contactFormPlaceholderEmail = "your.email@example.com"
+contactFormPlaceholderMessage = "Введите ваше сообщение здесь..."
+notFoundTitle = "404 Не найдено"
+notFoundHeading = "Упс! Страница не найдена."
+notFoundText = "Страница, которую вы ищете, не существует."
+faqTitle = "Часто задаваемые вопросы"
+_language = "ru-UA"
+
+[build.buildStats]
+enable = true
+
+[build.cachebusters]
+enable = true
+sourceMaps = false
